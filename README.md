@@ -8,7 +8,7 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 </div>
 
 
-- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Fundamentals (AZ-900) - [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 ## Languages and Tools ⛏️
 
