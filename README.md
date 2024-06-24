@@ -8,7 +8,7 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 </div>
 
 
-- Microsoft Certified: Azure Fundamentals (AZ-900) - [![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+- Microsoft Certified: Azure Fundamentals (AZ-900) - ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
 ## Languages and Tools ⛏️
 
@@ -26,7 +26,7 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 
 </div>
   
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 
