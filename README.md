@@ -18,7 +18,9 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 
 </div>
 
-![C](https://img.shields.io/badge/c/c++-%2300599C.svg?style=for-the-badge&logo=&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 	
+![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 	
 
 <div align="center">
   
