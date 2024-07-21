@@ -21,6 +21,7 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 ![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) 	
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
 <div align="center">
   
