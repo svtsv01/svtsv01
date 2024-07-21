@@ -32,4 +32,4 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![Node.Js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-DC322F?style=flat&logo=scala&logoColor=white)
 
-  ![Snake animation](https://github.com/svtsv01/svtsv01/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/svtsv01/svtsv01/output/github-contribution-grid-snake-dark.svg)
