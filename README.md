@@ -7,6 +7,7 @@ My name is Slav, I'm a penultimate-year student with a passion for programming a
   
 </div>
 
+- Cisco Certified Network Associate (CCNA) - 
 - AWS Certified Solutions Architect – Associate (SAA-C03) - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 - Microsoft Certified: Azure Fundamentals (AZ-900) - ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
